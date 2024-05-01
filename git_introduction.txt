@@ -1,0 +1,1 @@
+In Git, a commit is a fundamental concept that represents a snapshot of the complete repository at a certain point in time. It serves as a record of what files looked like at that moment and carries metadata about the commit, such as the author, the commit message, and timestamps.
